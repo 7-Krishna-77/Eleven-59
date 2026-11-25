@@ -95,7 +95,7 @@ eleven59/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<your-username>/eleven59.git
+   git clone https://github.com/7-Krishna-77/eleven59.git
    cd eleven59
    ```
 
